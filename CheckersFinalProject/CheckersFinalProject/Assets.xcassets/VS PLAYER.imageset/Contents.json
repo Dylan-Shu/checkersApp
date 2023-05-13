@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "vector-illustration-battle-scoreboard-fight-260nw-1817266214 Background Removed.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
